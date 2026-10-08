@@ -257,6 +257,7 @@ Bash is both a command interpreter and a programming language, and shell scripts
 ---
 
 ## Primary Resource
+[Bash Scripting Playlist](<https://www.youtube.com/playlist?list=PLT98CRl2KxKGj-VKtApD8-zCqSaN2mD4w>)
 
 [GNU Bash Reference Manual](<https://www.gnu.org/software/bash/manual/?utm_source=chatgpt.com>)
 
