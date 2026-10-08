@@ -126,7 +126,7 @@ The learner should understand:
 
 ## Primary Course: CS50x
 
-[Harvard CS50x 2026 — Introduction to Computer Science](<[https://cs50.harvard.edu/x/2026/?utm_source=chatgpt.com](https://www.edx.org/learn/python/harvard-university-cs50-s-introduction-to-programming-with-python)>)
+[Harvard CS50x 2026 — Introduction to Computer Science](<https://www.edx.org/learn/python/harvard-university-cs50-s-introduction-to-programming-with-python>)
 
 CS50x is not strictly a cybersecurity course. That is precisely why it is useful.
 
